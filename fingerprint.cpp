@@ -107,6 +107,6 @@ int FingerPrint::getImageSize(){return ImageSize.nImageSize;}
 //deb file
 //example using: qdebug, and qt test facilities.
 //generate uml + dioxigen document files.
-//upload to git
+//upload to git---------> DONE
 // refactor to get better understable code.
 //locale  (set resources : learn the qt way).
